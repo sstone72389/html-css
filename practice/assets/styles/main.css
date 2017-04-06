@@ -1,0 +1,46 @@
+body {
+  background-color: blue;
+}
+
+h1 {
+  font-family: 'Macondo', cursive;
+  text-align: center;
+  text-decoration: underline;
+  color: Salmon;
+  font-size: 65px;
+}
+
+h2 {
+  text-align: center;
+  color: salmon;
+}
+h3 {
+  text-align: center;
+  color: salmon;
+}
+ul {
+  text-align: center;
+  list-style: none;
+  color: yellow;
+  font-size: 17px;
+}
+p{
+  color: yellow;
+  text-align: center;
+  font-size: 17px;
+}
+
+.smaller {
+  height: 100px;
+  width: 100px;
+}
+
+button {
+  margin-left: 500px;
+  margin-right: 500px;
+  border: 1px solid salmon;
+  font-size: 11px;
+}
+div {
+  text-align: center
+}
